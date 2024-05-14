@@ -1,0 +1,112 @@
+.metro{
+    top: 243px;
+    left: 143px;
+    width: 196px;
+    height: 44px;
+    background: transparent;
+    opacity: 1;
+}
+.tarjeta{
+    top: 240px;
+    left: 800px;
+    width: 2320px;
+    height: 41px;
+    background: transparent;
+    opacity: 1;
+}
+.saldo{
+    top: 242px;
+    left: 1072px;
+    width: 132px;
+    height: 41px;
+    background:transparent;
+    opacity: 1;
+}
+.lupa{
+    top: 252px;
+    left: 1224px;
+    width: 27px;
+    height: 27px;
+    background: transparent;
+    opacity: 1;
+}
+.carrito{
+    top: 252px;
+    left: 1324px;
+    width: 33px;
+    height: 32px;
+    background: transparent;
+    opacity: 1;
+}
+.img{
+    top: 322px;
+    left: 227px;
+    width: 884px;
+    height: 497px;
+    background: transparent;
+    opacity: 1;
+}
+.tarjeta{
+    top: 861px;
+    left: 158px;
+    width: 716px;
+    height: 55px;
+    background: transparent;
+    opacity: 1;
+}
+.dinero{
+    top: 924px;
+    left: 157px;
+    width: 139px;
+    height: 37px;
+    background: transparent;
+    opacity: 1;
+}
+.metrolinea{
+    top: 876px;
+    left: 1195px;
+    width: 129px;
+    height: 29px;
+    background: transparent;
+    opacity: 1;
+}
+.compra{
+    top: 917px;
+    left: 1205px;
+    width: 111px;
+    height: 36px;
+    background: transparent;
+    opacity: 1;
+}
+.cantidad{
+    top: 349px;
+    left: 1403px;
+    width: 84px;
+    height: 27px;
+    background: transparent;
+    opacity: 1;
+}
+.icono{
+    top: 240px;
+    left: 1433px;
+    width: 24px;
+    height: 14px;
+    background: transparent;
+    opacity: 1;
+}
+.menu{
+    top: 507px;
+    left: 1430px;
+    width: 23px;
+    height: 187px;
+    background: transparent;
+    opacity: 1;
+}
+.iconodos{
+    top: 946px;
+    left: 1433px;
+    width: 24px;
+    height: 14px;
+    background: transparent;
+    opacity: 1;
+}
