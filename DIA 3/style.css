@@ -15,6 +15,14 @@ body{
     background-color: #FFFFFF;
     top: 140px;
 }
+#carrito{
+    position: relative;
+    bottom: 100px;
+    left: 6000px;
+    top: -300;
+    width: 27px;
+    height: 27px;
+}
 .tema{
     position: relative;
     height: 802px;
@@ -23,17 +31,18 @@ body{
     left: 1290px;
     bottom: 601px;
 }
-.tema .uno{
+#tema .uno{
     position: relative;
-    left: 45px;
+    left: 65px;
+    top: 550px;
     bottom: 120px;
     height: 14px;
     width: 23px;
 }
-.temas .dos{
+#temas .dos{
     position: relative;
     left: 18px;
-    top: 560px;
+    top: 550px;
     height: 13px;
     width: 23px;
 }
@@ -74,7 +83,6 @@ body{
 #informacionB{
     position: relative;
     left: 980px;
-    top: -300;
     bottom: 150px;
     width: 27px;
     height: 27px;
@@ -122,12 +130,12 @@ body{
     left: 30px;
     font-weight: bold;
 }
-.compra{
+#compra{
     position: relative;
     bottom: 900px;
     left: 58px;
 }
-.comprah2{
+#comprah2{
     font-size: 40px;
     font-weight: bold;
     position: relative;
@@ -138,9 +146,9 @@ body{
     position: relative;
     bottom: 39px;
 }
-.tarjeta{
+#tarjeta{
     position: relative;
-    left: 100px;
+    left: 122px;
 }
 #linea{
     position: relative;

@@ -7,7 +7,7 @@ body{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     transition: all 250px;
 }
-.contenid{
+.contenido{
     position: relative;
     margin: auto;
     width: 1400px;
@@ -30,11 +30,11 @@ body{
     height: 13px;
     width: 23px;
 }
-.tema .dos{
+#tema .dos{
     position: relative;
     left: 15px;
     top: 750px;
-    height: 13px;
+    height: 23px;
     width: 23px;
 }
 .tema .tres{
@@ -78,9 +78,9 @@ body{
     width: 27px;
     height: 27px;
 }
-.informacionC{
+#informacionC{
     position: relative;
-    left: 1150px;
+    left: 2170px;
     bottom: 155px;
     width: 27px;
     height: 27px;
@@ -146,4 +146,9 @@ body{
     left: 435px;
     height: 320px;
     width: 530px;
+}
+#linea{
+    position: relative;
+    top: -200px;
+    left: 680px;
 }
