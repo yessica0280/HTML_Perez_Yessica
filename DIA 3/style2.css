@@ -71,7 +71,7 @@ body{
     bottom: 95px;
     color: black;
 }
-.informacionB{
+#informacionB{
     position: relative;
     left: 1100px;
     bottom: 155px;
@@ -121,7 +121,7 @@ body{
     left: 30px;
     font-weight: bold;
 }
-.saldo{
+#saldo{
     position: relative;
     bottom: 900px;
     text-align: center;
