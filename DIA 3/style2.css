@@ -1,13 +1,13 @@
 html{
-    height:100%;
+    height: 100px;
 }
 body{
     background: rgb(128, 128, 128);
-    background: linear-gradient(0deg, rgba(128, 128, 128, 1) 33%, rgba(255, 255, 255, 1)100%);
+    background: linear-gradient(0deg, (128, 128, 128, 1)33% rgba(255, 255, 255, 1)100%);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    transition: all 250ms;
+    transition: all 250px;
 }
-.contenido{
+.contenid{
     position: relative;
     margin: auto;
     width: 1400px;
@@ -21,26 +21,26 @@ body{
     width: 110px;
     background-color: #212020;
     left: 1290px;
-    bottom: 601px;
+    bottom: 427px;
 }
 .tema .uno{
     position: relative;
     left: 45px;
-    bottom: 120px;
-    height: 14px;
+    bottom: -40px;
+    height: 13px;
     width: 23px;
 }
-.temas .dos{
+.tema .dos{
     position: relative;
-    left: 18px;
-    top: 560px;
+    left: 15px;
+    top: 750px;
     height: 13px;
     width: 23px;
 }
 .tema .tres{
     position: relative;
     top: 300px;
-    right: 15px;
+    right: -20px;
 }
 .temap{
     color: white;
@@ -59,29 +59,29 @@ body{
 .informacion .uno{
     font-size: 30px;
     position: relative;
-    left: 733px;
-    bottom: 86px;
+    left: 533px;
+    bottom: 26px;
     color: black;
+    text-decoration: none;
 }
 .informacion .dos{
     font-size: 30px;
     position: relative;
     left: 972px;
-    bottom: 155px;
+    bottom: 95px;
     color: black;
-    text-decoration: none;
 }
 .informacionB{
     position: relative;
-    left: 980px;
-    bottom: 150px;
+    left: 1100px;
+    bottom: 155px;
     width: 27px;
     height: 27px;
 }
 .informacionC{
     position: relative;
-    left: 1030px;
-    bottom: 150px;
+    left: 1150px;
+    bottom: 155px;
     width: 27px;
     height: 27px;
 }
@@ -92,12 +92,12 @@ body{
 .informacionh1{
     position: relative;
     font-weight: bold;
-    left: 754px;
+    left: 974px;
     bottom: 200px;
 }
 .cuadrado{
     position: relative;
-    bottom: 800px;
+    bottom: 580px;
     left: 1100px;
     width: 160px;
     height: 114px;
@@ -115,29 +115,35 @@ body{
     width: 129px;
     height: 29px;
 }
-.cuadrador{
+.cuadradop{
     position: relative;
     font-size: 26px;
     left: 30px;
     font-weight: bold;
 }
-.compra{
+.saldo{
     position: relative;
     bottom: 900px;
-    left: 58px;
+    text-align: center;
 }
-.comprah2{
+.saldoh1{
     font-size: 40px;
-    font-weight: bold;
-    position: relative;
-    bottom: 5px;
 }
-.comprap{
+.saldop{
     font-size: 27px;
-    position: relative;
-    bottom: 39px;
+    font-weight: bold;
+}
+.saldoE{
+    border-radius: 10px;
+    width: 288px;
+    height: 58px;
+    text-align: center;
+    font-size: 30px;
+    border: 0.5px solid gray;
 }
 .tarjeta{
     position: relative;
-    left: 100px;
+    left: 435px;
+    height: 320px;
+    width: 530px;
 }
