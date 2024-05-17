@@ -1,13 +1,9 @@
-#fondotwitch{
-    top: 0px;
-    left: 0px;
-    width: 1920px;
-    height: 1080px;
-    background: transparent url('imagenes/FondoTwitch.png') 0% 0% no-repeat padding-box;
-    opacity: 0.35;
+#contenido{
+    width: 80%;
+    margin: 0 auto;
 }
-#Path1{
-    top: 0px;
+#path1{
+    top: 1000px;
     left: 2px;
     width: 1918px;
     height: 4149px;
@@ -15,11 +11,293 @@
     border: 1px solid #707070;
     opacity: 1;
 }
-#iconawesome{
-    top: 37px;
+#fondotwitch{
+    position: relative;
+    top: -4144px;
+    left: 2px;
+    width: 1920px;
+    height: 1080px;
+    background: transparent url('imagenes/FondoTwitch.png') 0% 0% no-repeat padding-box;
+    opacity: 0.35;
+}
+#iconeawesome{
+    position: relative;
+    top: -5200px;
     left: 63px;
     width: 36px;
     height: 36px;
     background: transparent url('imagenes/Icon\ awesome-search.png') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
+#group1{
+    position: relative;
+    top: -5251px;
+    left: 1695px;
+    width: 205px;
+    height: 54px;
+    background: transparent url('imagenes/Group\ 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#login{
+    position: relative;
+    top: -5291px;
+    left: 1768px;
+    width: 50px;
+    height: 20px;
+    background: transparent url('imagenes/Login.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#logoprime{
+    position: relative;
+    top: -5125px;
+    left: 682px;
+    width: 556px;
+    height: 313px;
+    background: transparent url('imagenes/LogoPrimeE2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#yourfavorite{
+    position: relative;
+    top: -5137px;
+    left: 389px;
+    width: 1151px;
+    height: 60px;
+    background: transparent url('imagenes/Your\ favorite\ content\,\ on\ one\ place\ only..png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#nowyou{
+    position: relative;
+    top: -5113px;
+    left: 380px;
+    width: 1160px;
+    height: 102px;
+    background: transparent url('imagenes/Now\ you\ can\ enjoy\ everything\ from\ Amazon\ Prime\ Video\ and\ Twitch\ Prime\ with\ you\ Amazon\ Prime\ subscription\ on\ one\ place\ that\ brings\ all\ the\ entertainmen.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#rectangle2{
+    position: relative;
+    top: -5077px;
+    left: 733px;
+    width: 458px;
+    height: 104px;
+    background: transparent url('imagenes/Rectangle\ 2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#singup{
+    position: relative;
+    top: -5147px;
+    left: 780px;
+    width: 360px;
+    height: 40px;
+    background: transparent url('imagenes/Sign-Up\ on\ Amazon.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#group2{
+    position: relative;
+    top: -4809px;
+    left: 65px;
+    width: 1792px;
+    height: 567px;
+    background: transparent url('img/Group 2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#rectangle3{
+    position: relative;
+    top: -4839px;
+    left: 64px;
+    width: 1792px;
+    height: 724px;
+    background: transparent url('img/Rectangle 3.png') 0% 0% no-repeat padding-box;
+    border-radius: 108px;
+    opacity: 1;
+}
+#dontlike{
+    position: relative;
+    top: -5251px;
+    left: 135px;
+    width: 1664px;
+    height: 60px;
+    background: transparent url('img/Don’t like to watch Live? No problem , we got you covered.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#rectangle4{
+    position: relative;
+    top: -5214px;
+    left: 676px;
+    width: 181px;
+    height: 309px;
+    background: transparent url('img/Rectangle 4.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+#rectangle41{
+    position: relative;
+    top: -5531px;
+    left: 470px;
+    width: 181px;
+    height: 309px;
+    background: transparent url('img/Rectangle 4.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+#rectangle42{
+    position: relative;
+    top: -5850px;
+    left: 887px;
+    width: 180px;
+    height: 309px;
+    background: transparent url('img/Rectangle 4.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+#rectangle43{
+    position: relative;
+    top: -6168px;
+    left: 1092px;
+    width: 181px;
+    height: 309px;
+    background: transparent url('img/Rectangle 4.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+#rectangle44{
+    position: relative;
+    top: -6484px;
+    left: 1298px;
+    width: 181px;
+    height: 309px;
+    background: transparent url('img/Rectangle 4.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+#youll{
+    position: relative;
+    top: -6440px;
+    left: 207px;
+    width: 1492px;
+    height: 110px;
+    background: transparent url('img/You’ll find a variety of movies, not only for adults but also for your family, with our without internet. 24/7. On demand..png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#rectangle3{
+    position: relative;
+    top: -4067px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    background: transparent url('img/Rectangle 3.png') 0% 0% no-repeat padding-box;
+    border-radius: 108px;
+    opacity: 1;
+}
+#cancel{
+    position: relative;
+    top: -6929px;
+    left: 560px;
+    width: 800px;
+    height: 60px;
+    background: transparent url('img/Cancel any time , anywhere .png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#iconmetro{
+    position: relative;
+    top: -6885px;
+    left: 876px;
+    width: 169px;
+    height: 169px;
+    background: transparent url('img/Icon metro-cancel.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#ifyou{
+    position: relative;
+    top: -6805px;
+    left: 269px;
+    width: 1382px;
+    height: 88px;
+    background: transparent url('img/If you don’t like our services, you can cancel anytime you want , no contracts, no fees..png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#compatible{
+    position: relative;
+    top: -6681px;
+    left: 418px;
+    width: 1118px;
+    height: 125px;
+    background: transparent url('img/Compatible devices.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#theres{
+    position: relative;
+    top: -6668px;
+    left: 181px;
+    width: 1544px;
+    height: 99px;
+    background: transparent url('img/There’s a range of devices where you can enjoy all of the content available in Prime Entertainment:.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#image2{
+    position: relative;
+    top: -6532px;
+    left: 386px;
+    width: 256px;
+    height: 219px;
+    background: transparent url('img/Image 2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#image1{
+    position: relative;
+    top: -6889px;
+    left: 685px;
+    width: 584px;
+    height: 534px;
+    background: transparent url('img/Image 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#image3{
+    position: relative;
+    top: -7270px;
+    left: 1261px;
+    width: 271px;
+    height: 238px;
+    background: transparent url('img/Image 3.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#flecha{
+    position: relative;
+    top: -7448px;
+    left: 305px;
+    width: 19px;
+    height: 27px;
+    transform: matrix(0.03, -1, 0.03, 0, 0);
+    background: transparent url('img/Flecha.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#logocace{
+    position: relative;
+    top: -7154px;
+    left: 826px;
+    width: 430px;
+    height: 241px;
+    background: transparent url('img/Logo CACE Invertido UP.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#group5{
+    position: relative;
+    top: -7232px;
+    left: 543px;
+    width: 831px;
+    height: 25px;
+    background: transparent url('img/Group 5.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#powered{
+    position: relative;
+    top: -7404px;
+    left: 843px;
+    width: 92px;
+    height: 20px;
+    background: transparent url('img/Powered by.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+ 
+
