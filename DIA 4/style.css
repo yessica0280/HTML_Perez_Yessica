@@ -1,28 +1,37 @@
+@font-face {
+    font-family: letra;
+    src: url(font/AmazonEmber_Th.ttf);
+    font-family: miletra;
+    src: url(font/AmazonEmber_BdIt.ttf);
+    font-family: letra2;
+    src: url(font/AmazonEmber_Th\ -\ copia.ttf);
+    font-family: letra3;
+    src: url(font/AmazonEmber_Th\ -\ copia\ -\ copia.ttf);
+}
+
 #contenido{
-    width: 80%;
-    margin: 0 auto;
+    width: 1920px;
+    height: 4120px;
+    background: black;
+    margin: auto;
 }
 #path1{
     top: 1000px;
     left: 2px;
-    width: 1918px;
-    height: 4149px;
-    background: transparent url('imagenes/Path\ 1.png') 0% 0% no-repeat padding-box;
-    border: 1px solid #707070;
-    opacity: 1;
+    width: 1920px;
+    height: 1080px;
+    border: red 5px solid;
 }
 #fondotwitch{
     position: relative;
-    top: -4144px;
     left: 2px;
     width: 1920px;
     height: 1080px;
     background: transparent url('imagenes/FondoTwitch.png') 0% 0% no-repeat padding-box;
-    opacity: 0.35;
 }
 #iconeawesome{
     position: relative;
-    top: -5200px;
+    top: -1050px;
     left: 63px;
     width: 36px;
     height: 36px;
@@ -40,16 +49,22 @@
 }
 #login{
     position: relative;
-    top: -5291px;
-    left: 1768px;
-    width: 50px;
-    height: 20px;
-    background: transparent url('imagenes/Login.png') 0% 0% no-repeat padding-box;
-    opacity: 1;
+    width: 205px;
+    height: 54px;
+    background: rgb(255, 255, 255);
+    border-radius: 108px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra;
+    top: -1092px;
+    left: 1647px;
+    
 }
 #logoprime{
     position: relative;
-    top: -5125px;
+    top: -990px;
     left: 682px;
     width: 556px;
     height: 313px;
@@ -58,12 +73,17 @@
 }
 #yourfavorite{
     position: relative;
-    top: -5137px;
-    left: 389px;
+    top: -1086px;
     width: 1151px;
     height: 60px;
-    background: transparent url('imagenes/Your\ favorite\ content\,\ on\ one\ place\ only..png') 0% 0% no-repeat padding-box;
-    opacity: 1;
+    border-radius: 108px;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: miletra;
+    color: white;
+    left: 400px;
 }
 #nowyou{
     position: relative;
@@ -71,8 +91,22 @@
     left: 380px;
     width: 1160px;
     height: 102px;
-    background: transparent url('imagenes/Now\ you\ can\ enjoy\ everything\ from\ Amazon\ Prime\ Video\ and\ Twitch\ Prime\ with\ you\ Amazon\ Prime\ subscription\ on\ one\ place\ that\ brings\ all\ the\ entertainmen.png') 0% 0% no-repeat padding-box;
-    opacity: 1;
+    border-radius: 108px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color: white;
+}
+#caja{
+    width: 1792px;
+    height: 724px;
+    background: #00A8E1;
+    border-radius: 108PX;
+    position: relative;
+    left: 63px;
+    
 }
 #rectangle2{
     position: relative;
@@ -82,28 +116,35 @@
     height: 104px;
     background: transparent url('imagenes/Rectangle\ 2.png') 0% 0% no-repeat padding-box;
     opacity: 1;
+    color: white;
 }
 #singup{
     position: relative;
-    top: -5147px;
+    top: -1130px;
     left: 780px;
     width: 360px;
     height: 40px;
-    background: transparent url('imagenes/Sign-Up\ on\ Amazon.png') 0% 0% no-repeat padding-box;
-    opacity: 1;
+    border-radius: 108px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra3;
+    color: black;
 }
 #group2{
     position: relative;
-    top: -4809px;
+    top: 29px;
     left: 65px;
     width: 1792px;
     height: 567px;
     background: transparent url('img/Group 2.png') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
+
 #rectangle3{
     position: relative;
-    top: -4839px;
+    top: 11px;
     left: 64px;
     width: 1792px;
     height: 724px;
