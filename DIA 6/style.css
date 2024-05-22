@@ -1,0 +1,387 @@
+@font-face{
+    font-family: letra1;
+    src: url(letras/MYRIADPRO-REGULAR.OTF);
+    font-family: letra2;
+    src: url(letras/MyriadPro-Light.otf);
+}
+#contenido{
+    width: 1920px;
+    margin: 0 auto;
+}
+#pexels{
+    width: 1920px;
+    height: 1890px;
+}
+#fondob{
+    background-color: white;
+    position: relative;
+    top: -1572px;
+    left: 139px;
+    width: 1598px;
+    height: 1221px;
+    border-radius: 35px 35px 35px 35px;
+}
+#dian{
+    position: relative;
+    top: -2672px;
+    left: -818px;
+    width: 313px;
+    height: 53px;
+    font-size: 47px;
+}
+#bienvenido{
+    position: relative;
+    top: -2698px;
+    width: 941px;
+    height: 56px;
+    border-radius: 108px;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#484848;
+    left: 482px;
+}
+#porfavor{
+    position: relative;
+    top: -2750px;
+    width: 941px;
+    height: 56px;
+    border-radius: 108px;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#484848;
+    left: 482px;
+}
+#ajaxloadingbar{
+    position: relative;
+    top: -2779px;
+    left: 836px;
+    width: 231px;
+    height: 77px;
+    font-size: 47px;
+}
+#numerodocu{
+    position: relative;
+    top: -2796px;
+    width: 208px;
+    height: 21px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#606060;
+    left: 561px;
+}
+#cuadro1{
+    width: 792px;
+    height: 38px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 20px;
+    top: -2838px;
+    left: 559px;
+    position: relative;
+    color: #f2f2f2;
+    font-size: 52px;
+}
+#fecha{
+    position: relative;
+    top: -2856px;
+    width: 318px;
+    height: 21px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#606060;
+    left: 561px;
+}
+#cuadro2{
+    width: 792px;
+    height: 38px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 20px;
+    top: -2897px;
+    left: 559px;
+    position: relative;
+    color: #f2f2f2;
+    font-size: 52px;
+}
+#nosoyrobot{
+    position: relative;
+    top: -2930px;
+    left: 771px;
+    width: 401px;
+    height: 113px;
+    font-size: 47px;
+}
+#estapagina{
+    position: relative;
+    top: -2935px;
+    width: 518px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#606060;
+    left: 707px;
+}
+#cuadroconsultar{
+    width: 198px;
+    height: 21px;
+    background-color: #157ffb;
+    border: 1px solid #157ffb;
+    padding: 20px;
+    top: -2969px;
+    left: 836px;
+    position: relative;
+    font-size: 52px;
+    border-radius: 40px 40px 40px 40px;
+}
+#consultar1{
+    position: relative;
+    top: -3059px;
+    width: 518px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#94c5fd;
+    left: 699px;
+}
+#eresusuario{
+    position: relative;
+    top: -3046px;
+    width: 1052px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: 420px;
+}
+#tramitarrut{
+    position: relative;
+    top: -3078px;
+    width: 188px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 29px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: 560px;
+}
+#elrut{
+    position: relative;
+    top: -3093px;
+    width: 518px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#606060;
+    left: 379px;
+}
+#comoun{
+    position: relative;
+    top: -3099px;
+    width: 518px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#606060;
+    left: 374px;
+}
+#nit{
+    position: relative;
+    top: -3106px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#606060;
+    left: 374px;
+}
+#delproceso{
+    position: relative;
+    top: -3111px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#606060;
+    left: 374px;
+}
+#tramitar1{
+    width: 318px;
+    height: 39px;
+    background-color: #157ffb;
+    border: 1px solid #157ffb;
+    padding: 20px;
+    top: -3151px;
+    left: 470px;
+    position: relative;
+    color:#94c5fd;
+    font-size: 52px;
+    border-radius: 40px 40px 40px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#iconsignat{
+    position: relative;
+    top: -3525px;
+    left: 1199px;
+    width: 103px;
+    height: 62px;
+    font-size: 47px;
+}
+#lafirma{
+    position: relative;
+    top: -3471px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#606060;
+    left: 978px;
+}
+#tramitarfirma{
+    position: relative;
+    top: -3562px;
+    width: 347px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 29px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: 1080px;
+}
+#procesos{
+    position: relative;
+    top: -3552px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#606060;
+    left: 978px;
+}
+#electronica{
+    position: relative;
+    top: -3559px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#606060;
+    left: 978px;
+}
+#mundo{
+    position: relative;
+    top: -3570px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#606060;
+    left: 978px;
+}
+#tramitar2{
+    width: 318px;
+    height: 39px;
+    background-color: #157ffb;
+    border: 1px solid #157ffb;
+    padding: 20px;
+    top: -3604px;
+    left: 1077px;
+    position: relative;
+    color:#94c5fd;
+    font-size: 52px;
+    border-radius: 40px 40px 40px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#iconoazul1{
+    background-color: #3366cc;
+    position: relative;
+    top: -1908px;
+    left: 1px;
+    width: 1918px;
+    height: 269px;
+}
+#iconfile{
+    position: relative;
+    top: -3059px;
+    left: 630px;
+    width: 63px;
+    height: 84px;
+    font-size: 47px;
+}
+#iconoazul2{
+    background-color: #3366cc;
+    position: relative;
+    top: -574px;
+    left: 1px;
+    width: 1920px;
+    height: 269px;
+}
