@@ -1,0 +1,389 @@
+@font-face{
+    font-family: letra1;
+    src: url(letras/MYRIADPRO-REGULAR.OTF);
+    font-family: letra2;
+    src: url(letras/MyriadPro-Light.otf);
+}
+#contenido{
+    width: 1920px;
+    margin: 0 auto;
+}
+#pexels{
+    width: 1920px;
+    height: 1890px;
+}
+#fondob{
+    background-color: white;
+    position: relative;
+    top: -1572px;
+    left: 139px;
+    width: 1598px;
+    height: 1221px;
+    border-radius: 35px 35px 35px 35px;
+}
+#dian{
+    position: relative;
+    top: -2672px;
+    left: -818px;
+    width: 313px;
+    height: 53px;
+    font-size: 47px;
+}
+#iconoazul2{
+    background-color: #3366cc;
+    position: relative;
+    top: -572px;
+    left: 1px;
+    width: 1920px;
+    height: 269px;
+}
+#iconoazul1{
+    background-color: #3366cc;
+    position: relative;
+    top: 1890px;
+    left: 1px;
+    width: 1918px;
+    height: 269px;
+}
+#tramitarfirma1{
+    position: relative;
+    top: -2501px;
+    width: 347px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 29px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: 754px;
+}
+#iconsignature{
+    position: relative;
+    top: -2680px;
+    left: 889px;
+    width: 130px;
+    height: 80px;
+    font-size: 47px;
+    border: 10px;
+}
+#iconoazul1{
+    background-color: #3366cc;
+    position: relative;
+    top: -1908px;
+    left: 1px;
+    width: 1918px;
+    height: 269px;
+}
+#para{
+    position: relative;
+    top: -2629px;
+    width: 1450px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: 219px;
+}
+#asignar{
+    position: relative;
+    top: -2657px;
+    width: 1667px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: 109px;
+}
+#ajox{
+    position: relative;
+    top: -2619px;
+    left: 836px;
+    width: 251px;
+    height: 120px;
+    font-size: 47px;
+}
+#documento{
+    position: relative;
+    top: -2596px;
+    width: 1451px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: -47px;
+}
+#cuadro1{
+    width: 792px;
+    height: 60px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 20px;
+    top: -2614px;
+    left: 492px;
+    position: relative;
+    color: #f2f2f2;
+    font-size: 45px;
+}
+#fecha{
+    position: relative;
+    top: -2629px;
+    width: 1451px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: 52px;
+}
+#cuadro2{
+    width: 792px;
+    height: 60px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 20px;
+    top: -2651px;
+    left: 487px;
+    position: relative;
+    color: #f2f2f2;
+    font-size: 45px;
+}
+#continuar{
+    width: 318px;
+    height: 39px;
+    background-color: #157ffb;
+    border: 1px solid #157ffb;
+    padding: 20px;
+    top: -2637px;
+    left: 776px;
+    position: relative;
+    color:#94c5fd;
+    font-size: 52px;
+    border-radius: 40px 40px 40px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+}
+#inicio{
+    position: relative;
+    top: -4092px;
+    width: 941px;
+    height: 56px;
+    border-radius: 108px;
+    font-size: 47px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#f2f2f2;
+    left: -74px;
+    text-decoration: none;
+}
+#tramites{
+    position: relative;
+    top: -4214px;
+    width: 941px;
+    height: 56px;
+    border-radius: 108px;
+    font-size: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#f2f2f2;
+    left: 166px;
+}
+#futuro{
+    position: relative;
+    top: -4341px;
+    left: 784px;
+    width: 346px;
+    height: 100px;
+    font-size: 47px;
+}
+#contacto{
+    position: relative;
+    top: -4466px;
+    width: 941px;
+    height: 56px;
+    border-radius: 108px;
+    font-size: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#f2f2f2;
+    left: 818px;
+}
+#consultar{
+    width: 212px;
+    height: 15px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    padding: 20px;
+    top: -4574px;
+    left: 1466px;
+    position: relative;
+    color:black;
+    font-size: 33px;
+    border-radius: 40px 40px 40px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+}
+#iconmate{
+    position: relative;
+    top: -3167px;
+    left: 297px;
+    width: 33px;
+    height: 50px;
+}
+#logofooter{
+    position: relative;
+    top: -3042px;
+    left: 630px;
+    width: 396px;
+    height: 111px;
+    font-size: 47px;
+}
+#prosperidad{
+    position: relative;
+    top: -3180px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#eff3fb;
+    left: 36px;
+}
+#carrera{
+    position: relative;
+    top: -3187px;
+    width: 789px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#eff3fb;
+    left: -46px;
+}
+#codigo{
+    position: relative;
+    top: -3190px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#eff3fb;
+    left: 36px;
+}
+#horario{
+    position: relative;
+    top: -3194px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#eff3fb;
+    left: 36px;
+}
+#iconphone{
+    position: relative;
+    top: -3405px;
+    left: 1478px;
+    width: 50px;
+    height: 63px;
+    font-size: 47px;
+}
+#contact{
+    position: relative;
+    top: -3429px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#eff3fb;
+    left: 1209px;
+}
+#lineaatencion{
+    position: relative;
+    top: -3435px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#eff3fb;
+    left: 1223px;
+}
+#pbx{
+    position: relative;
+    top: -3435px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#eff3fb;
+    left: 1208px;
+}
+#numeros{
+    position: relative;
+    top: -3432px;
+    width: 550px;
+    height: 11px;
+    border-radius: 108px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#eff3fb;
+    left: 1209px;
+}

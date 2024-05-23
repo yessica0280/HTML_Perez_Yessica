@@ -29,269 +29,25 @@
     height: 53px;
     font-size: 47px;
 }
-#bienvenido{
+#iconoazul2{
+    background-color: #3366cc;
     position: relative;
-    top: -2698px;
-    width: 941px;
-    height: 56px;
-    border-radius: 108px;
-    font-size: 26px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra1;
-    color:#484848;
-    left: 482px;
+    top: -572px;
+    left: 1px;
+    width: 1920px;
+    height: 269px;
 }
-#porfavor{
+#iconoazul1{
+    background-color: #3366cc;
     position: relative;
-    top: -2750px;
-    width: 941px;
-    height: 56px;
-    border-radius: 108px;
-    font-size: 26px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra1;
-    color:#484848;
-    left: 482px;
+    top: 1890px;
+    left: 1px;
+    width: 1918px;
+    height: 269px;
 }
-#ajaxloadingbar{
+#tramitarfirma1{
     position: relative;
-    top: -2779px;
-    left: 836px;
-    width: 231px;
-    height: 77px;
-    font-size: 47px;
-}
-#numerodocu{
-    position: relative;
-    top: -2796px;
-    width: 208px;
-    height: 21px;
-    border-radius: 108px;
-    font-size: 21px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra1;
-    color:#606060;
-    left: 561px;
-}
-#cuadro1{
-    width: 792px;
-    height: 38px;
-    background-color: #ffffff;
-    border: 1px solid black;
-    padding: 20px;
-    top: -2838px;
-    left: 559px;
-    position: relative;
-    color: #f2f2f2;
-    font-size: 52px;
-}
-#fecha{
-    position: relative;
-    top: -2856px;
-    width: 318px;
-    height: 21px;
-    border-radius: 108px;
-    font-size: 21px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra1;
-    color:#606060;
-    left: 561px;
-}
-#cuadro2{
-    width: 792px;
-    height: 38px;
-    background-color: #ffffff;
-    border: 1px solid black;
-    padding: 20px;
-    top: -2897px;
-    left: 559px;
-    position: relative;
-    color: #f2f2f2;
-    font-size: 52px;
-}
-#nosoyrobot{
-    position: relative;
-    top: -2930px;
-    left: 771px;
-    width: 401px;
-    height: 113px;
-    font-size: 47px;
-}
-#estapagina{
-    position: relative;
-    top: -2935px;
-    width: 518px;
-    height: 11px;
-    border-radius: 108px;
-    font-size: 11px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra2;
-    color:#606060;
-    left: 707px;
-}
-#cuadroconsultar{
-    width: 198px;
-    height: 21px;
-    background-color: #157ffb;
-    border: 1px solid #157ffb;
-    padding: 20px;
-    top: -2969px;
-    left: 836px;
-    position: relative;
-    font-size: 52px;
-    border-radius: 40px 40px 40px 40px;
-}
-#consultar1{
-    position: relative;
-    top: -3059px;
-    width: 518px;
-    height: 11px;
-    border-radius: 108px;
-    font-size: 33px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra2;
-    color:#94c5fd;
-    left: 699px;
-}
-#eresusuario{
-    position: relative;
-    top: -3046px;
-    width: 1052px;
-    height: 35px;
-    border-radius: 108px;
-    font-size: 33px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra1;
-    color:#303030;
-    left: 420px;
-}
-#tramitarrut{
-    position: relative;
-    top: -3078px;
-    width: 188px;
-    height: 35px;
-    border-radius: 108px;
-    font-size: 29px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra1;
-    color:#303030;
-    left: 560px;
-}
-#elrut{
-    position: relative;
-    top: -3093px;
-    width: 518px;
-    height: 11px;
-    border-radius: 108px;
-    font-size: 21px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra2;
-    color:#606060;
-    left: 379px;
-}
-#comoun{
-    position: relative;
-    top: -3099px;
-    width: 518px;
-    height: 11px;
-    border-radius: 108px;
-    font-size: 21px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra2;
-    color:#606060;
-    left: 374px;
-}
-#nit{
-    position: relative;
-    top: -3106px;
-    width: 550px;
-    height: 11px;
-    border-radius: 108px;
-    font-size: 21px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra2;
-    color:#606060;
-    left: 374px;
-}
-#delproceso{
-    position: relative;
-    top: -3111px;
-    width: 550px;
-    height: 11px;
-    border-radius: 108px;
-    font-size: 21px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra2;
-    color:#606060;
-    left: 374px;
-}
-#tramitar1{
-    width: 318px;
-    height: 39px;
-    background-color: #157ffb;
-    border: 1px solid #157ffb;
-    padding: 20px;
-    top: -3121px;
-    left: 470px;
-    position: relative;
-    color:#94c5fd;
-    font-size: 52px;
-    border-radius: 40px 40px 40px 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    text-decoration: none;
-}
-#iconsignat{
-    position: relative;
-    top: -3440px;
-    left: 1199px;
-    width: 103px;
-    height: 62px;
-    font-size: 47px;
-}
-#lafirma{
-    position: relative;
-    top: -3391px;
-    width: 550px;
-    height: 11px;
-    border-radius: 108px;
-    font-size: 21px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: letra2;
-    color:#606060;
-    left: 978px;
-}
-#tramitarfirma{
-    position: relative;
-    top: -3479px;
+    top: -2501px;
     width: 347px;
     height: 35px;
     border-radius: 108px;
@@ -301,58 +57,250 @@
     align-items: center;
     font-family: letra1;
     color:#303030;
-    left: 1080px;
+    left: 754px;
 }
-#procesos{
+#iconsignature{
     position: relative;
-    top: -3473px;
-    width: 550px;
-    height: 11px;
+    top: -2680px;
+    left: 889px;
+    width: 130px;
+    height: 80px;
+    font-size: 47px;
+    border: 10px;
+}
+#ingresa{
+    position: relative;
+    top: -2600px;
+    width: 1451px;
+    height: 35px;
     border-radius: 108px;
-    font-size: 21px;
+    font-size: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: 182px;
+}
+#iconoazul1{
+    background-color: #3366cc;
+    position: relative;
+    top: -1908px;
+    left: 1px;
+    width: 1918px;
+    height: 269px;
+}
+#recuerde{
+    position: relative;
+    top: -2606px;
+    width: 941px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 35px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: letra2;
-    color:#606060;
-    left: 978px;
+    color:#303030;
+    left: 430px;
 }
-#electronica{
+#check{
     position: relative;
-    top: -3485px;
-    width: 550px;
-    height: 11px;
+    top: -2610px;
+    left: 527px;
+    width: 20px;
+    height: 20px;
+    font-size: 47px;
+    border: 10px;
+}
+#debe{
+    position: relative;
+    top: -2675px;
+    width: 941px;
+    height: 35px;
     border-radius: 108px;
-    font-size: 21px;
+    font-size: 35px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: letra2;
-    color:#606060;
-    left: 978px;
+    color:#303030;
+    left: 430px;
 }
-#mundo{
+#check2{
     position: relative;
-    top: -3495px;
-    width: 550px;
-    height: 11px;
+    top: -2705px;
+    left: 608px;
+    width: 20px;
+    height: 20px;
+    font-size: 47px;
+    border: 10px;
+}
+#debe2{
+    position: relative;
+    top: -2766px;
+    width: 941px;
+    height: 35px;
     border-radius: 108px;
-    font-size: 21px;
+    font-size: 35px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: letra2;
-    color:#606060;
-    left: 978px;
+    color:#303030;
+    left: 419px;
 }
-#tramitar2{
+#check3{
+    position: relative;
+    top: -2797px;
+    left: 323px;
+    width: 20px;
+    height: 20px;
+    font-size: 47px;
+    border: 10px;
+}
+#debe3{
+    position: relative;
+    top: -2857px;
+    width: 1471px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 31px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#303030;
+    left: 265px;
+}
+#check4{
+    position: relative;
+    top: -2881px;
+    left: 468px;
+    width: 20px;
+    height: 20px;
+    font-size: 47px;
+    border: 10px;
+}
+#nodebe{
+    position: relative;
+    top: -2941px;
+    width: 1471px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 31px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#303030;
+    left: 260px;
+}
+#check5{
+    position: relative;
+    top: -2965px;
+    left: 233px;
+    width: 20px;
+    height: 20px;
+    font-size: 47px;
+    border: 10px;
+}
+#nodebe2{
+    position: relative;
+    top: -3023px;
+    width: 1471px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#303030;
+    left: 204px;
+}
+#contraseña{
+    position: relative;
+    top: -3037px;
+    width: 1451px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: -414px;
+}
+#cuadro1{
+    width: 792px;
+    height: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 20px;
+    top: -3077px;
+    left: 218px;
+    position: relative;
+    color: #f2f2f2;
+    font-size: 45px;
+}
+#vuelve1{
+    position: relative;
+    top: -3112px;
+    width: 1451px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color:#303030;
+    left: -260px;
+}
+#cuadro2{
+    width: 792px;
+    height: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 20px;
+    top: -3154px;
+    left: 218px;
+    position: relative;
+    color: #f2f2f2;
+    font-size: 45px;
+}
+#nosoy{
+    position: relative;
+    top: -3195px;
+    left: 771px;
+    width: 401px;
+    height: 113px;
+    font-size: 47px;
+}
+#sitienes{
+    position: relative;
+    top: -3227px;
+    width: 1471px;
+    height: 35px;
+    border-radius: 108px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra2;
+    color:#747474;
+    left: 247px;
+}
+#crear{
     width: 318px;
     height: 39px;
     background-color: #157ffb;
     border: 1px solid #157ffb;
     padding: 20px;
-    top: -3491px;
-    left: 1077px;
+    top: -3230px;
+    left: 776px;
     position: relative;
     color:#94c5fd;
     font-size: 52px;
@@ -363,17 +311,9 @@
     text-align: center;
     text-decoration: none;
 }
-#iconoazul1{
-    background-color: #3366cc;
-    position: relative;
-    top: -1908px;
-    left: 1px;
-    width: 1918px;
-    height: 269px;
-}
 #inicio{
     position: relative;
-    top: -4884px;
+    top: -4702px;
     width: 941px;
     height: 56px;
     border-radius: 108px;
@@ -387,9 +327,9 @@
     left: -74px;
     text-decoration: none;
 }
-#tramites3{
+#tramites{
     position: relative;
-    top: -5005px;
+    top: -4827px;
     width: 941px;
     height: 56px;
     border-radius: 108px;
@@ -401,9 +341,9 @@
     color:#f2f2f2;
     left: 166px;
 }
-#gobierno{
+#futuro{
     position: relative;
-    top: -5124px;
+    top: -4944px;
     left: 784px;
     width: 346px;
     height: 100px;
@@ -411,7 +351,7 @@
 }
 #contacto{
     position: relative;
-    top: -5260px;
+    top: -5069px;
     width: 941px;
     height: 56px;
     border-radius: 108px;
@@ -423,13 +363,13 @@
     color:#f2f2f2;
     left: 818px;
 }
-#consultar2{
+#consultar{
     width: 212px;
     height: 15px;
     background-color: #f2f2f2;
     border: 1px solid #f2f2f2;
     padding: 20px;
-    top: -5362px;
+    top: -5171px;
     left: 1466px;
     position: relative;
     color:black;
@@ -441,16 +381,16 @@
     text-align: center;
     text-decoration: none;
 }
-#iconmaterial{
+#iconmate{
     position: relative;
-    top: -3973px;
+    top: -3755px;
     left: 297px;
     width: 33px;
     height: 50px;
 }
 #logofooter{
     position: relative;
-    top: -3870px;
+    top: -3630px;
     left: 630px;
     width: 396px;
     height: 111px;
@@ -458,7 +398,7 @@
 }
 #prosperidad{
     position: relative;
-    top: -3992px;
+    top: -3770px;
     width: 550px;
     height: 11px;
     border-radius: 108px;
@@ -472,7 +412,7 @@
 }
 #carrera{
     position: relative;
-    top: -3992px;
+    top: -3777px;
     width: 789px;
     height: 11px;
     border-radius: 108px;
@@ -484,9 +424,9 @@
     color:#eff3fb;
     left: -46px;
 }
-#codigopostal{
+#codigo{
     position: relative;
-    top: -3992px;
+    top: -3783px;
     width: 550px;
     height: 11px;
     border-radius: 108px;
@@ -500,7 +440,7 @@
 }
 #horario{
     position: relative;
-    top: -3992px;
+    top: -3791px;
     width: 550px;
     height: 11px;
     border-radius: 108px;
@@ -514,7 +454,7 @@
 }
 #iconphone{
     position: relative;
-    top: -4209px;
+    top: -3990px;
     left: 1478px;
     width: 50px;
     height: 63px;
@@ -522,7 +462,7 @@
 }
 #contact{
     position: relative;
-    top: -4224px;
+    top: -4014px;
     width: 550px;
     height: 11px;
     border-radius: 108px;
@@ -536,7 +476,7 @@
 }
 #lineaatencion{
     position: relative;
-    top: -4234px;
+    top: -4016px;
     width: 550px;
     height: 11px;
     border-radius: 108px;
@@ -550,7 +490,7 @@
 }
 #pbx{
     position: relative;
-    top: -4237px;
+    top: -4019px;
     width: 550px;
     height: 11px;
     border-radius: 108px;
@@ -564,7 +504,7 @@
 }
 #numeros{
     position: relative;
-    top: -4241px;
+    top: -4021px;
     width: 550px;
     height: 11px;
     border-radius: 108px;
@@ -575,20 +515,4 @@
     font-family: letra2;
     color:#eff3fb;
     left: 1209px;
-}
-#iconfile{
-    position: relative;
-    top: -3059px;
-    left: 630px;
-    width: 63px;
-    height: 84px;
-    font-size: 47px;
-}
-#iconoazul2{
-    background-color: #3366cc;
-    position: relative;
-    top: -574px;
-    left: 1px;
-    width: 1920px;
-    height: 269px;
 }
