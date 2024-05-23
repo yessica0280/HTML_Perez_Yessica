@@ -67,7 +67,7 @@
 }
 #numerodocu{
     position: relative;
-    top: -2796px;
+    top: -2821px;
     width: 208px;
     height: 21px;
     border-radius: 108px;
@@ -88,7 +88,7 @@
     top: -2838px;
     left: 559px;
     position: relative;
-    color: #f2f2f2;
+    color: black;
     font-size: 52px;
 }
 #fecha{
@@ -117,10 +117,18 @@
     color: #f2f2f2;
     font-size: 52px;
 }
+#calendar{
+    position: relative;
+    top: -3071px;
+    left: 1321px;
+    width: 63px;
+    height: 70px;
+    font-size: 47px;
+}
 #nosoyrobot{
     position: relative;
     top: -2930px;
-    left: 771px;
+    left: 697px;
     width: 401px;
     height: 113px;
     font-size: 47px;
