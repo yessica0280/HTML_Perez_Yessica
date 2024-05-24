@@ -11,23 +11,26 @@
     src: url(letras/Poppins-Regular.ttf);
 }
 #contenido{
-    width: 1920px;
+    width: 100vw;
+    height: 100vh;
     margin: 0 auto;
+    border: red 5px solid;
+    z-index: 2;
 }
 #fondo{
     background-color: #1e1d2b;
     position: relative;
-    top: 0px;
-    left: 2px;
-    width: 1920px;
-    height: 1080px;
+    top: ovh;
+    left: 0vw;
+    width: 100vw;
+    height: 100vh;
     border-style: solid;
     border-color: #cb5d2a;
 }
 #food{
     position: relative;
     top: 76px;
-    width: 0px;
+    width: 69px;
     height: 24px;
     border-radius: 108px;
     font-size: 60px;
@@ -170,10 +173,6 @@
     color: #f2f2f2;
     font-size: 52px;
 }
-#contenido{
-    width: 1920px;
-    margin: 0 auto;
-}
 #fondo{
     background-color: #1e1d2b;
     position: relative;
@@ -287,10 +286,6 @@
     position: relative;
     color: #f2f2f2;
     font-size: 52px;
-}
-#contenido{
-    width: 1920px;
-    margin: 0 auto;
 }
 #fondo{
     background-color: #1e1d2b;
@@ -516,10 +511,6 @@
     color:#ff9e6f;
     left: -767px;
 }
-#contenido{
-    width: 1920px;
-    margin: 0 auto;
-}
 #fondo{
     background-color: #1e1d2b;
     position: relative;
@@ -736,10 +727,6 @@
     color:#fcfcfc;
     left: -667px;
 }
-#contenido{
-    width: 1920px;
-    margin: 0 auto;
-}
 #fondo{
     background-color: #1e1d2b;
     position: relative;
@@ -801,10 +788,6 @@
     position: relative;
     color: #f2f2f2;
     font-size: 67px;
-}
-#contenido{
-    width: 1920px;
-    margin: 0 auto;
 }
 #fondo{
     background-color: #1e1d2b;
