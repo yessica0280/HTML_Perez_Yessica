@@ -1,0 +1,21 @@
+#grid-container{
+    background-color: rgb(15, 23, 42);
+    display:grid;
+    grid-template-columns:repite(4,200px);
+    grid-template-rows: repite(4,200px);
+}
+#video1{
+    display:grid;
+    grid-template-columns:repite(4,200px);
+    grid-template-rows: repite(4,200px);
+}
+#video2{
+    display:grid;
+    grid-template-columns:repite(4,200px);
+    grid-template-rows: repite(4,200px);
+}
+#video3{
+    display:grid;
+    grid-template-columns:repite(1,200px);
+    grid-template-rows: repite(4,200px);
+}
