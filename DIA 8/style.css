@@ -1,21 +1,81 @@
 #grid-container{
+    display: grid;
     background-color: rgb(15, 23, 42);
-    display:grid;
-    grid-template-columns:repite(4,200px);
-    grid-template-rows: repite(4,200px);
+    margin: 0 auto;
+    width: 500px;
+    height: 620px;
+    border-radius: 10px;
 }
 #video1{
-    display:grid;
-    grid-template-columns:repite(4,200px);
-    grid-template-rows: repite(4,200px);
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin-left: -20px;
+    border-radius: 10px;
+    margin-top: 10px;
 }
 #video2{
-    display:grid;
-    grid-template-columns:repite(4,200px);
-    grid-template-rows: repite(4,200px);
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin-left: -300px;
+    border-radius: -50px;
+    margin-top: 180px;
+}
+#imagen1{
+    width: 230px;
+    height: 320px;
+    margin-left: -10px;
+    margin-top: -207px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    border-radius: 10px;
 }
 #video3{
-    display:grid;
-    grid-template-columns:repite(1,200px);
-    grid-template-rows: repite(4,200px);
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    margin-left: -485px;
+    margin-top: 325px;
+}
+#grid-container2{
+    display: grid;
+    background-color: rgb(15, 23, 42);
+    margin: 0 auto;
+    width: 500px;
+    height: 370px;
+    border-radius: 10px;
+}
+#imagen2{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin-top: 8px;
+    margin-left: 8px;
+    border-radius: 10px;
+    width: 232px;
+    height: 175px;
+}
+#imagen3{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin-top: -178px;
+    margin-left: 4px;
+    width: 220px;
+    height: 338px;
+    border-radius: 10px;
+}
+#video4{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin-top: 189px;
+    margin-left: -240px;
 }
