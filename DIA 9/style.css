@@ -13,7 +13,7 @@
     height: 200px;
     margin-top: -1100px;
     margin-left: 450px;
-    animation: opacarse 12s infinite;
+    animation: opacarse 16s infinite;
 }
 @keyframes opacarse{
     0%{opacity: 1;}
@@ -25,7 +25,7 @@
     z-index: 2;
     top: 20px;
     width: 350px;
-    animation: movernube 11s linear infinite;
+    animation: movernube 16s linear infinite;
 }
 @keyframes movernube {
     0% {left: 1000px;}
@@ -33,26 +33,60 @@
     60% {left: calc(40% - 100px);}
     100% {left: -200px;}
 }
+
+#lluvia{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+    width: 200px;
+    opacity: 0%;
+    animation-delay: 6s;
+    animation: lluvia 15s linear infinite;
+}
+@keyframes lluvia {
+    0% {top: -20px;}
+    60%{opacity: 90%;}
+    100%{opacity: 100%;}
+    100% {top: 300px;}
+}
+.contador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: -300px;
+    margin-left: -400px;
+}
+
+.numero {
+    font-size: 3em;
+    margin: 0 10px;
+    opacity: 0; 
+    animation: aparecer 1s linear, desaparecer 0s linear;
+}
+
+@keyframes aparecer {
+    0% {opacity: 0.4;}
+    100% {opacity: 1;}
+}
+@keyframes desaparecer {
+    0% {opacity: 1;}
+    100% {opacity: 0;}
+}
+.numero:nth-child(1) {animation-delay: 0s;}
+
+.numero:nth-child(2) {animation-delay: 1s;}
+
+.numero:nth-child(3) {animation-delay: 2s;}
+
+.numero:nth-child(4) {animation-delay: 3s;}
 #flor{
     position: absolute;
     top: 270px;
     left: 280px;
     width: 300px;
-    animation: desaparecer 12s infinite ;
+    animation: desaparecer 15s infinite ;
 }
 @keyframes desaparecer {
     0% {top: 1000px;}
-}
-#lluvia{
-    position: absolute;
-    top: 100px;
-    left: 300px;
-    width: 200px;
-    animation: lluvia 11s linear infinite;
-}
-@keyframes lluvia {
-    0% {top: -20px;}
-    100% {top: 300px;}
-    0%{opacity: 0;}
-    100%{opacity: 2;}
 }
