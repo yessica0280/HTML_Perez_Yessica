@@ -1,0 +1,18 @@
+
+#contenedor{
+    width: 100vw;
+    height: 100vw;
+    display: grid;
+    grid-template-columns: 20% auto;
+}
+#caja1{
+    width: 100vw;
+    height: 100vw;
+    background-color: red;
+    grid-column: 1/2;
+}
+#caja2{
+    width: 100vw;
+    height: 100vw;
+    background-color: yellow;
+}
