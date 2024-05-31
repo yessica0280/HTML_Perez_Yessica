@@ -74,8 +74,16 @@
 #figura1{
     width: 1vw;
     height: 1vw;
-    margin-top: -21%;
+    display: flex;
+    margin-top: -20%;
     margin-left: 75%;
+}
+#figura2{
+    width: 1vw;
+    height: 1vw;
+    display: flex;
+    margin-top: -9%;
+    margin-left: 10%;
 }
 #charts{
     width: 10vw;
@@ -86,6 +94,13 @@
     font-size: 1.2vw;
     color: #101010;
 }
+#figura3{
+    width: 1vw;
+    height: 1vw;
+    display: flex;
+    margin-top: -21%;
+    margin-left: 10%;
+}
 #widgets{
     width: 10vw;
     height: 2vw;
@@ -94,6 +109,13 @@
     font-family: letra2;
     font-size: 1.2vw;
     color: #101010;
+}
+#figura4{
+    width: 1vw;
+    height: 1vw;
+    display: flex;
+    margin-top: -21%;
+    margin-left: 10%;
 }
 #table{
     width: 10vw;
@@ -113,6 +135,13 @@
     font-size: 1.2vw;
     color: #101010;
 }
+#figura5{
+    width: 1vw;
+    height: 1vw;
+    display: flex;
+    margin-top: -21%;
+    margin-left: 10%;
+}
 #forms{
     width: 10vw;
     height: 2vw;
@@ -122,12 +151,26 @@
     font-size: 1.2vw;
     color: #101010;
 }
+#figura6{
+    width: 1vw;
+    height: 1vw;
+    display: flex;
+    margin-top: -21%;
+    margin-left: 10%;
+}
+#figura7{
+    width: 1vw;
+    height: 1vw;
+    display: flex;
+    margin-top: -21%;
+    margin-left: 10%;
+}
 #caja2{
     background-color: #fefefe;
     width: 80vw;
     height: 5vw;
-    margin-left: -80%;
-    margin-top: 2%;
+    margin-left: -64vw;
+    margin-top: 1.7%;
 
 }
 #imagen{
@@ -136,6 +179,22 @@
     margin-top: 1%;
     margin-left: 93%;
     border-radius: 50vw;
+}
+#imagen1{
+    width: 3vw;
+    height: 3vw;
+    margin-top: 1%;
+    margin-left: -93%;
+    border-radius: 50vw;
+}
+#mil{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 8%;
+    margin-left: 8%;
+    font-family: letra3;
+    font-size: 1.3vw;
+    color: black;
 }
 #caja3{
     background-color: #eeedf2;
@@ -180,3 +239,187 @@
     font-size: 1.3vw;
     color: #787878;
 }
+#bloques{
+    display: flex;
+    margin-top: -30vw;
+    margin-left: -62vw;
+}
+#bloque1, #bloque2, #bloque3, #bloque4{
+    width: 17vw;
+    height: 14vw;
+    background-color: white;
+    margin-right: 1.5%;
+    border-radius: 0.5vw;
+}
+#mil{
+    width: 10vw;
+    height: 1vw;
+    margin-top: 1%;
+    margin-left: -39%;
+    font-family: letra3;
+    font-size: 2vw;
+    color: black;
+}
+#tra{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 2.5%;
+    margin-left: -5.3%;
+    font-family: letra1;
+    font-size: 2vw;
+    color: #101010;
+}
+#chulito1{
+    width: 3vw;
+    height: 3vw;
+    margin-top: 1%;
+    margin-left: 1%;
+    border-radius: 50vw;
+}
+#porcentaje1{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 5.5%;
+    margin-left: -7.5%;
+    font-family: letra1;
+    font-size: 2vw;
+    color: #101010;
+}
+#dos{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 1%;
+    margin-left: 5.5%;
+    font-family: letra3;
+    font-size: 2vw;
+    color: black;
+}
+#sales{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 2.5%;
+    margin-left: -5.5%;
+    font-family: letra3;
+    font-size: 2vw;
+    color: #101010;
+}
+#chulito4{
+    width: 3vw;
+    height: 3vw;
+    margin-top: 1%;
+    margin-left: -10%;
+    border-radius: 50vw;
+}
+#porcentaje2{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 5.5%;
+    margin-left: -5%;
+    font-family: letra3;
+    font-size: 2vw;
+    color: #101010;
+}
+#cuatro{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 1%;
+    margin-left: 5%;
+    font-family: letra3;
+    font-size: 2vw;
+    color: black;
+}
+#page{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 2.5%;
+    margin-left: 3.5%;
+    font-family: letra1;
+    font-size: 2vw;
+    color: #101010;
+}
+#porcentaje3{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 5.5%;
+    margin-left: -5%;
+    font-family: letra3;
+    font-size: 2vw;
+    color: #101010;
+}
+#chulito2{
+    width: 3vw;
+    height: 3vw;
+    margin-top: 1%;
+    margin-left: 0.2%;
+    border-radius: 50vw;
+}
+#dos1{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 1%;
+    margin-left: 3.5%;
+    font-family: letra3;
+    font-size: 2vw;
+    color: black;
+}
+#visitors{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 2.5%;
+    margin-left: -5.4%;
+    font-family: letra1;
+    font-size: 2vw;
+    color: #101010;
+}
+#chulito3{
+    width: 3vw;
+    height: 3vw;
+    margin-top: 1%;
+    margin-left: 0.5%;
+    border-radius: 50vw;
+}
+#porcentaje4{
+    width: 10vw;
+    height: 2vw;
+    margin-top: 5.5%;
+    margin-left: -6.5%;
+    font-family: letra3;
+    font-size: 2vw;
+    color: #101010;
+}
+#bloque5{
+    background-color: white;
+    height: 12vw;
+    width: 75vw;
+    margin-top: 2vw;
+    margin-left: -62vw;
+    border-radius: 0.5vw;
+}
+#salesr{
+    width: 15vw;
+    height: 2vw;
+    margin-top: -8%;
+    margin-left: -43%;
+    font-family: letra1;
+    font-size: 2.5vw;
+    color: #101010;
+}
+#hola{
+    width: 20vw;
+    height: 2vw;
+    margin-top: -1%;
+    margin-left: -43%;
+    font-family: letra1;
+    font-size: 3vw;
+    color: black;
+}
+#cajita{
+    display: none;
+}
+#cajita:checked ~ #caja1{
+    margin-left: 20vw;
+}
+#cajita:checked ~ #caja2{
+    width: 99.7vw;
+}
+
