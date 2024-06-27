@@ -1,0 +1,20 @@
+#contendor{
+    width: 100vw;
+    height: 52vw;
+    background-color: white;
+    overflow-y: scroll;
+    box-sizing: border-box;
+}
+#caja2{
+    width: 100vw;
+    height: 100vw;
+    overflow: hidden;
+}
+#imagen3{
+    width: 40vw;
+    height: 49vw;
+    top: 55vw;
+    left: 50vw;
+    position: absolute;
+    display: flex;
+}

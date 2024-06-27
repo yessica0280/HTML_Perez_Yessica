@@ -1,0 +1,432 @@
+@font-face{
+    font-family: letra1;
+    src: url(letras/MyriadPro-Light.otf);
+}
+#contendor{
+    width: 100vw;
+    height: 52vw;
+    background-color: white;
+}
+#caja1{
+    width: 100vw;
+    height: 100vw;
+}
+#iconoazul{
+    background-color: #3366cc;
+    position: absolute;
+    top: -0.55vw;
+    left: 0.5vw;
+    width: 96.7vw;
+    height: 5vw;
+}
+#iamgen1{
+    width: 100vw;
+    height: 10vw;
+}
+#inicio{
+    position: absolute;
+    top: 2vw;
+    width: 4vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: white;
+    left: 8vw;
+    text-decoration: none;
+}
+#quees{
+    position: absolute;
+    top: 2vw;
+    width: 35vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: white;
+    left: 8vw;
+    text-decoration: none;
+}
+#imagen2{
+    width: 18vw;
+    height: 3vw;
+    top: 1.5vw;
+    left: 35vw;
+    position: absolute;
+    display: flex;
+}
+#entrega{
+    position: absolute;
+    top: 2vw;
+    width: 6vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: white;
+    left: 61vw;
+    text-decoration: none;
+}
+#consultar{
+    width: 11vw;
+    height: 3.5vw;
+    background-color: white;
+    margin-right: 1.5%;
+    border-radius: 1.5vw;
+    text-decoration: none;
+    top: 1.5vw;
+    left: 76vw;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: letra1;
+    font-size: 2vw;
+}
+#cuadro{
+    width: 30vw;
+    height: 38vw;
+    background-color: white;
+    margin-right: 1.5%;
+    border-radius: 1.5vw;
+    text-decoration: none;
+    top: 7.5vw;
+    left: 7vw;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#consultae{
+    position: absolute;
+    top: 9vw;
+    width: 28vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 8vw;
+}
+#ingreso{
+    position: absolute;
+    top: 11.5vw;
+    width: 28vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 8vw;
+}
+#solidario{
+    position: absolute;
+    top: 14vw;
+    width: 28vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 8vw;
+}
+#porfavor{
+    position: absolute;
+    top: 16vw;
+    width: 38vw;
+    height: 2vw;
+    font-size: 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 3vw;
+}
+#de{
+    position: absolute;
+    top: 17.5vw;
+    width: 28vw;
+    height: 2vw;
+    font-size: 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 8vw;
+}
+#tipo{
+    position: absolute;
+    top: 20vw;
+    width: 80vw;
+    height: 2vw;
+    font-size: 0.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: -29vw;
+}
+#cuadro1{
+    width: 23vw;
+    height: 1vw;
+    background-color: #ffffff;
+    border: 1px solid black;
+    top: 21.7vw;
+    left: 7.5vw;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 11px;
+    font-family: letra1;
+}
+#numero{
+    position: absolute;
+    top: 23vw;
+    width: 80vw;
+    height: 2vw;
+    font-size: 0.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: -28.5vw;
+}
+#cuadro2{
+    width: 23vw;
+    height: 1vw;
+    background-color: #ffffff;
+    border: 1px solid black;
+    top: 24.7vw;
+    left: 7.5vw;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 11px;
+    font-family: letra1;
+}
+#nombre{
+    position: absolute;
+    top: 26vw;
+    width: 80vw;
+    height: 2vw;
+    font-size: 0.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: -29.9vw;
+}
+#cuadro3{
+    width: 23vw;
+    height: 1vw;
+    background-color: #ffffff;
+    border: 1px solid black;
+    top: 27.7vw;
+    left: 7.5vw;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 11px;
+    font-family: letra1;
+}
+#apellido{
+    position: absolute;
+    top: 29vw;
+    width: 80vw;
+    height: 2vw;
+    font-size: 0.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: -29.9vw;
+}
+#cuadro4{
+    width: 23vw;
+    height: 1vw;
+    background-color: #ffffff;
+    border: 1px solid black;
+    top: 30.7vw;
+    left: 7.5vw;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 11px;
+    font-family: letra1;
+}
+#fecha{
+    position: absolute;
+    top: 32vw;
+    width: 80vw;
+    height: 2vw;
+    font-size: 0.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: -26.5vw;
+}
+#cuadro5{
+    width: 23vw;
+    height: 1vw;
+    background-color: #ffffff;
+    border: 1px solid black;
+    top: 33.7vw;
+    left: 7.5vw;
+    position: absolute;
+    display: flex;
+    color: black;
+    font-size: 1vw;
+    font-family: letra1;
+}
+#telefono{
+    position: absolute;
+    top: 35vw;
+    width: 80vw;
+    height: 2vw;
+    font-size: 0.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: -30.2vw;
+}
+#cuadro6{
+    width: 23vw;
+    height: 1vw;
+    background-color: #ffffff;
+    border: 1px solid black;
+    top: 36.7vw;
+    left: 7.5vw;
+    position: absolute;
+    display: flex;
+    color: black;
+    font-size: 1vw;
+    font-family: letra1;
+}
+#consultar2{
+    width: 11vw;
+    height: 3.5vw;
+    background-color: #3366cc;
+    margin-right: 1.5%;
+    border-radius: 1.5vw;
+    text-decoration: none;
+    top: 38vw;
+    left: 17vw;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: letra1;
+    font-size: 2vw;
+}
+#ingresos{
+    position: absolute;
+    top: 20vw;
+    width: 28vw;
+    height: 2vw;
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 55vw;
+}
+#debido{
+    position: absolute;
+    top: 24vw;
+    width: 39vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 51vw;
+}
+#el{
+    position: absolute;
+    top: 27vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 46vw;
+}
+#que{
+    position: absolute;
+    top: 30vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 44vw;
+}
+#un{
+    position: absolute;
+    top: 33vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 44vw;
+}
+#consultar3{
+    width: 11vw;
+    height: 3.5vw;
+    background-color: #3366cc;
+    margin-right: 1.5%;
+    border-radius: 1.5vw;
+    text-decoration: none;
+    top: 39vw;
+    left: 60vw;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: letra1;
+    font-size: 2vw;
+}
+
