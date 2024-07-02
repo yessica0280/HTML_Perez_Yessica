@@ -15,13 +15,17 @@
     background-color: #3366cc;
     position: absolute;
     top: -0.55vw;
-    left: 0.5vw;
-    width: 96.7vw;
-    height: 5vw;
-}
-#iamgen1{
+    left: 0.4vw;
     width: 100vw;
-    height: 10vw;
+    height: 5vw;
+    z-index: 2;
+}
+#imagen1{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 100vw;
+    height: 50vw;
 }
 #inicio{
     position: absolute;
@@ -36,6 +40,7 @@
     color: white;
     left: 8vw;
     text-decoration: none;
+    z-index: 2;
 }
 #quees{
     position: absolute;
@@ -50,6 +55,7 @@
     color: white;
     left: 8vw;
     text-decoration: none;
+    z-index: 2;
 }
 #imagen2{
     width: 18vw;
@@ -58,6 +64,7 @@
     left: 35vw;
     position: absolute;
     display: flex;
+    z-index: 2;
 }
 #entrega{
     position: absolute;
@@ -72,6 +79,7 @@
     color: white;
     left: 61vw;
     text-decoration: none;
+    z-index: 2;
 }
 #consultar{
     width: 11vw;
@@ -88,6 +96,7 @@
     justify-content: center;
     font-family: letra1;
     font-size: 2vw;
+    z-index: 2;
 }
 #cuadro{
     width: 30vw;
@@ -193,7 +202,7 @@
     justify-content: center;
     align-items: center;
     color: black;
-    font-size: 11px;
+    font-size: 14px;
     font-family: letra1;
 }
 #numero{
@@ -353,7 +362,7 @@
     top: 20vw;
     width: 28vw;
     height: 2vw;
-    font-size: 3vw;
+    font-size: 2vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -366,7 +375,7 @@
     top: 24vw;
     width: 39vw;
     height: 2vw;
-    font-size: 2vw;
+    font-size: 1.5vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -379,7 +388,7 @@
     top: 27vw;
     width: 47vw;
     height: 2vw;
-    font-size: 2vw;
+    font-size: 1.5vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -392,7 +401,7 @@
     top: 30vw;
     width: 47vw;
     height: 2vw;
-    font-size: 2vw;
+    font-size: 1.5vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -405,7 +414,7 @@
     top: 33vw;
     width: 47vw;
     height: 2vw;
-    font-size: 2vw;
+    font-size: 1.5vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -427,6 +436,397 @@
     align-items: center;
     justify-content: center;
     font-family: letra1;
-    font-size: 2vw;
+    font-size: 1.5vw;
 }
-
+#imagen3{
+    width: 47vw;
+    height: 39vw;
+    position: absolute;
+    display: flex;
+    left: 50vw;
+    top: 50vw;
+}
+#queun{
+    position: absolute;
+    top: 50vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 18vw;
+}
+#esquema{
+    position: absolute;
+    top: 57vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2vw;
+}
+#transferencia{
+    position: absolute;
+    top: 59vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2.5vw;
+}
+#situacion{
+    position: absolute;
+    top: 61vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 0.8vw;
+}
+#sean{
+    position: absolute;
+    top: 63vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2.5vw;
+}
+#hogares{
+    position: absolute;
+    top: 67vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2.5vw;
+}
+#vulne{
+    position: absolute;
+    top: 69vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2.5vw;
+}
+#como{
+    position: absolute;
+    top: 71vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2.5vw;
+}
+#hagan{
+    position: absolute;
+    top: 73vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2.5vw;
+}
+#fami{
+    position: absolute;
+    top: 75vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2.5vw;
+}
+#jove{
+    position: absolute;
+    top: 77vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2vw;
+}
+#podran{
+    position: absolute;
+    top: 79vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2.5vw;
+}
+#conocer{
+    position: absolute;
+    top: 83vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 2.5vw;
+}
+#imagen4{
+    width: -2vw;
+    height: -2vw;
+    position: absolute;
+    display: flex;
+    left: 25vw;
+    top: 86vw;
+}
+#caja3{
+    width: 100vw;
+    height: 30vw;
+}
+#etapas{
+    position: absolute;
+    top: 88vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 2.6vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 19vw;
+}
+#eta{
+    position: absolute;
+    top: 92vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.9vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: -7vw;
+}
+#desde{
+    position: absolute;
+    top: 98vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 2.1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: -8vw;
+}
+#imagen5{
+    width: 14vw;
+    height: 10vw;
+    position: absolute;
+    display: flex;
+    left: 8vw;
+    top: 105vw;
+}
+#eta2{
+    position: absolute;
+    top: 92vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.9vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 18vw;
+}
+#desde2{
+    position: absolute;
+    top: 98vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 2.1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 18vw;
+}
+#bancos{
+    position: absolute;
+    top: 99vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.9vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 18vw;
+}
+#imagen6{
+    width: 16vw;
+    height: 12vw;
+    position: absolute;
+    display: flex;
+    left: 33vw;
+    top: 102vw;
+}
+#imagen7{
+    width: 9vw;
+    height: 3.5vw;
+    position: absolute;
+    display: flex;
+    left: 30vw;
+    top: 112vw;
+}
+#imagen8{
+    width: 11vw;
+    height: 6vw;
+    position: absolute;
+    display: flex;
+    left: 42vw;
+    top: 111vw;
+}
+#eta3{
+    position: absolute;
+    top: 92vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1.9vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 45vw;
+}
+#abril{
+    position: absolute;
+    top: 98vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 2.1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 45vw;
+}
+#imagen9{
+    width: 18vw;
+    height: 7vw;
+    position: absolute;
+    display: flex;
+    left: 60vw;
+    top: 106vw;
+}
+#preguntas{
+    position: absolute;
+    top: 117vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 18vw;
+}
+#imagen10{
+    width: -2vw;
+    height: -2vw;
+    position: absolute;
+    display: flex;
+    left: 41vw;
+    top: 120vw;
+}
+#caja4{
+    width: 100vw;
+    height: 40vw;
+}
+#frecuentes{
+    position: absolute;
+    top: 123vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 2.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: black;
+    left: 19vw;
+}
+#iconoazul2{
+    background-color: #3366cc;
+    width: 2.5vw;
+    height: 2.5vw;
+    border-radius: 10vw;
+    margin-top: -1vw;
+    margin-left: 40vw;
+}
+#uno{
+    position: absolute;
+    top: 128.5vw;
+    width: 47vw;
+    height: 2vw;
+    font-size: 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: letra1;
+    color: white;
+    left: 18.1vw;
+}
