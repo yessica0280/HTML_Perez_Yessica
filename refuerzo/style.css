@@ -2,19 +2,15 @@
     font-family: letra1;
     src: url(letras/MyriadPro-Light.otf);
 }
-#contendor{
-    width: 100vw;
-    height: 52vw;
-    background-color: white;
-}
 #caja1{
     width: 100vw;
-    height: 100vw;
+    height: 50vw;
+    background-color: red;
 }
 #iconoazul{
     background-color: #3366cc;
     position: fixed;
-    top: -0.81vw;
+    top: -1.5vw;
     left: 0.4vw;
     width: 100vw;
     height: 5vw;
@@ -29,7 +25,7 @@
 }
 #inicio{
     position: fixed;
-    top: 2vw;
+    top: 1vw;
     width: 4vw;
     height: 2vw;
     font-size: 2vw;
@@ -44,7 +40,7 @@
 }
 #quees{
     position: fixed;
-    top: 2vw;
+    top: 1vw;
     width: 35vw;
     height: 2vw;
     font-size: 2vw;
@@ -60,7 +56,7 @@
 #imagen2{
     width: 18vw;
     height: 3vw;
-    top: 1.5vw;
+    top: 0.5vw;
     left: 35vw;
     position: fixed;
     display: flex;
@@ -68,7 +64,7 @@
 }
 #entrega{
     position: fixed;
-    top: 2vw;
+    top: 1vw;
     width: 6vw;
     height: 2vw;
     font-size: 2vw;
@@ -88,7 +84,7 @@
     margin-right: 1.5%;
     border-radius: 1.5vw;
     text-decoration: none;
-    top: 1vw;
+    top: 0.5vw;
     left: 76vw;
     position: fixed;
     display: flex;
@@ -1332,19 +1328,10 @@
     margin: 4vw;
     margin-left: 42vw;
     margin-top: -8vw;
-}
-#conta{
-    position: absolute;
-    top: 245vw;
-    width: 75vw;
-    height: 2vw;
-    font-size: 1.3vw;
-    display: flex;
     justify-content: center;
     align-items: center;
     font-family: letra1;
-    color: black;
-    left: 9.2vw;
+    font-size: 1.3vw;
 }
 #iconoazul8{
     background-color: #3366cc;
