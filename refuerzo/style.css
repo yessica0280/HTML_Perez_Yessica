@@ -191,8 +191,8 @@
     left: -29vw;
 }
 #cuadro1{
-    width: 23vw;
-    height: 1vw;
+    width: 23.5vw;
+    height: 2vw;
     background-color: #ffffff;
     border: 1px solid black;
     top: 21.7vw;
@@ -219,8 +219,8 @@
     left: -28.5vw;
 }
 #cuadro2{
-    width: 23vw;
-    height: 1vw;
+    width: 23.2vw;
+    height: 1.5vw;
     background-color: #ffffff;
     border: 1px solid black;
     top: 24.7vw;
@@ -247,8 +247,8 @@
     left: -29.9vw;
 }
 #cuadro3{
-    width: 23vw;
-    height: 1vw;
+    width: 23.2vw;
+    height: 1.5vw;
     background-color: #ffffff;
     border: 1px solid black;
     top: 27.7vw;
@@ -275,8 +275,8 @@
     left: -29.9vw;
 }
 #cuadro4{
-    width: 23vw;
-    height: 1vw;
+    width: 23.2vw;
+    height: 1.5vw;
     background-color: #ffffff;
     border: 1px solid black;
     top: 30.7vw;
@@ -303,8 +303,8 @@
     left: -26.5vw;
 }
 #cuadro5{
-    width: 23vw;
-    height: 1vw;
+    width: 23.3vw;
+    height: 1.8vw;
     background-color: #ffffff;
     border: 1px solid black;
     top: 33.7vw;
@@ -330,7 +330,7 @@
 }
 #cuadro6{
     width: 23vw;
-    height: 1vw;
+    height: 1.5vw;
     background-color: #ffffff;
     border: 1px solid black;
     top: 36.7vw;
@@ -616,8 +616,8 @@
     left: 2.5vw;
 }
 #imagen4{
-    width: -2vw;
-    height: -2vw;
+    width: 1vw;
+    height: 1vw;
     position: absolute;
     display: flex;
     left: 25vw;
@@ -785,8 +785,8 @@
     left: 18vw;
 }
 #imagen10{
-    width: -2vw;
-    height: -2vw;
+    width: 1vw;
+    height: 1vw;
     position: absolute;
     display: flex;
     left: 41vw;
@@ -982,8 +982,8 @@
     left: -4vw;
 }
 #imagen11{
-    width: -2vw;
-    height: -2vw;
+    width: 1vw;
+    height: 1vw;
     position: absolute;
     display: flex;
     left: 45.2vw;
@@ -1205,8 +1205,8 @@
     left: 9vw;
 }
 #imagen12{
-    width: -2vw;
-    height: -2vw;
+    width: 1vw;
+    height: 1vw;
     position: absolute;
     display: flex;
     left: 45.7vw;
