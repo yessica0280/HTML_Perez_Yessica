@@ -1,0 +1,33 @@
+#imagen1{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 99vw;
+    height:48vw;
+}
+#imagen2{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 10vw;
+    height: 5vw;
+    animation: imagen2 7s linear infinite;
+    top: 4vw;
+}
+@keyframes imagen2{
+    0% {left: 10px;}
+    100% {left: 300px;}
+}
+#imagen3{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 10vw;
+    height: 5vw;
+    animation: imagen3 8s linear infinite;
+    top: 9vw;
+}
+@keyframes imagen3{
+    0% {left: 10px;}
+    100% {left: 300px;}
+}
