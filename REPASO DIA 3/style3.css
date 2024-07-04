@@ -1,6 +1,152 @@
 body{
     background: #ffffff;
 }
+#principal{
+    background:#ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
 #imagen1{
-
+    display: grid;
+    place-items: center;
+    animation: imagen1 3s linear infinite;
+    position: absolute;
+}
+#imagen2{
+    display: grid;
+    place-items: center;
+    animation: imagen2 3.5s linear infinite;
+    position: absolute;
+}
+#imagen3{
+    display: grid;
+    place-items: center;
+    animation: imagen3 4s linear infinite;
+    position: absolute;
+}
+#imagen4{
+    display: grid;
+    place-items: center;
+    animation: imagen4 4.5s linear infinite;
+    position: absolute;
+}
+#imagen5{
+    display: grid;
+    place-items: center;
+    animation: imagen5 5s linear infinite;
+    position: absolute;
+}
+#imagen6{
+    display: grid;
+    place-items: center;
+    animation: imagen6 5.5s linear infinite;
+    position: absolute;
+}
+#imagen7{
+    display: grid;
+    place-items: center;
+    animation: imagen7 6s linear infinite;
+    position: absolute;
+}
+#imagen8{
+    display: grid;
+    place-items: center;
+    animation: imagen8 6.5s linear infinite;
+    position: absolute;
+}
+#imagen9{
+    display: grid;
+    place-items: center;
+    animation: imagen9 7s linear infinite;
+    position: absolute;
+}
+#imagen10{
+    display: grid;
+    place-items: center;
+    animation: imagen10 7.5s linear infinite;
+    position: absolute;
+}
+@keyframes imagen1 {
+    0% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
+}
+@keyframes imagen2 {
+    0% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
+}
+@keyframes imagen3 {
+    0% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
+}
+@keyframes imagen4 {
+    0% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
+}
+@keyframes imagen5 {
+    0% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
+}
+@keyframes imagen6 {
+    0% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
+}
+@keyframes imagen7 {
+    0% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
+}
+@keyframes imagen8 {
+    0% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
+}
+@keyframes imagen9 {
+    10% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
+}
+@keyframes imagen10 {
+    10% {
+        bottom: 100%; 
+    }
+    100% {
+        bottom: 1
+    }
 }

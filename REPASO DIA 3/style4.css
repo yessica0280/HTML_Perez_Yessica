@@ -1,0 +1,161 @@
+body{
+    background: #f6e4ca;
+}
+@font-face{
+    font-family: letra1;
+    src: url(letras/MYRIADPRO-REGULAR.OTF);
+}
+#iconoblanco{
+    background-color: #fdfbfb;
+    width: 45vw;
+    height: 28vw;
+    margin: 4vw;
+    margin-left: 25vw;
+    margin-top: 8vw;
+    position: relative;
+    animation: iconoblanco 5s forwards;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vw;
+}
+#iconoblanco2{
+    background-color: #fffffe;
+    width: 12vw;
+    height: 13vw;
+    margin: 4vw;
+    margin-left: 42vw;
+    margin-top: -36vw;
+    border-radius: 50vw;
+    display: fixed;
+    position: relative;
+    animation: iconoblanco2 5s forwards;
+}
+#imagen1{
+    width: 10vw;
+    height: 10vw;
+    margin-top: 1vw;
+    margin-left: 0.5vw;
+    position: relative;
+    animation: imagen1 5s forwards;
+}
+#letra1{
+    color: #f25768;
+    font-family: letra1;
+    font-size: 3.2vw;
+    width: 50vw;
+    position: absolute;
+    left: -13vw;
+    margin-top: -20vw;
+    position: relative;
+    animation: letra1 5s forwards;
+}
+#letra2{
+    color: #918e8f;
+    font-family: letra1;
+    font-size: 1.8vw;
+    width: 90vw;
+    position: absolute;
+    left: -10vw;
+    margin-top: -2.5vw;
+    position: relative;
+    animation: letra2 5s forwards;
+}
+#letra3{
+    color: #918e8f;
+    font-family: letra1;
+    font-size: 1.8vw;
+    width: 90vw;
+    position: absolute;
+    left: -6vw;
+    margin-top: -1.5vw;
+    position: relative;
+    animation: letra3 5s forwards;
+}
+#cuadro{
+    background-color: #2a99af;
+    color: #fffffe;
+    width: 35vw;
+    height: 5vw;
+    margin: 4vw;
+    margin-left: -12vw;
+    margin-top: 3vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: letra1;
+    font-size: 2vw;
+    transition: background-color 0.3s ease;
+    position: relative;
+    animation: subirYSaltar 5s forwards;
+}
+#cuadro:hover {
+    background-color: #f3596b;
+}
+@keyframes subirYSaltar {
+    0% {
+        top: 50vh; 
+    }
+    85% {
+        top: 15vh; 
+    }
+    100% {
+        top: 20vh; 
+    }
+}
+@keyframes iconoblanco{
+    0% {
+        top: 50vh; 
+    }
+    85% {
+        top: 15vh; 
+    }
+    100% {
+        top: 20vh; 
+    }
+}
+@keyframes iconoblanco2{
+    0% {
+        top: 50vh; 
+    }
+    85% {
+        top: 15vh; 
+    }
+    100% {
+        top: 20vh; 
+    }
+}
+@keyframes letra1{
+    0% {
+        top: 50vh; 
+    }
+    85% {
+        top: 15vh; 
+    }
+    100% {
+        top: 20vh; 
+    }
+}
+@keyframes letra2{
+    0% {
+        top: 50vh; 
+    }
+    85% {
+        top: 15vh; 
+    }
+    100% {
+        top: 20vh; 
+    }
+}
+@keyframes letra3{
+    0% {
+        top: 50vh; 
+    }
+    85% {
+        top: 15vh; 
+    }
+    100% {
+        top: 20vh; 
+    }
+}
