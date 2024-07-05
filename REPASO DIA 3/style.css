@@ -7,6 +7,20 @@ body{
     font-size:6rem;
     background:#2c333a;
 }
+nav input{
+    display: none;
+    font-size: 2vw;
+}
+nav ul{
+    display: none;
+    font-size: 2vw;
+    color: white;
+}
+nav input:checked~ul{
+    display: block;
+    font-size: 2vw;
+    color: white;
+}
 #principal{
     width: 100vw;
     height: 100vw;

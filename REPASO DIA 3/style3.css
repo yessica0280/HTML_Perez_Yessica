@@ -9,7 +9,6 @@ body{
     position: absolute;
     width: 100%;
     height: 100%;
-    left: 10vw;
 }
 #imagen1{
     display: grid;
@@ -72,7 +71,7 @@ body{
     position: absolute;
 }
 @keyframes imagen1 {
-    0% {
+    10% {
         bottom: 100%; 
     }
     100% {
@@ -80,7 +79,7 @@ body{
     }
 }
 @keyframes imagen2 {
-    0% {
+    10% {
         bottom: 100%; 
     }
     100% {
@@ -88,7 +87,7 @@ body{
     }
 }
 @keyframes imagen3 {
-    0% {
+    10% {
         bottom: 100%; 
     }
     100% {
@@ -96,7 +95,7 @@ body{
     }
 }
 @keyframes imagen4 {
-    0% {
+    10% {
         bottom: 100%; 
     }
     100% {
@@ -104,7 +103,7 @@ body{
     }
 }
 @keyframes imagen5 {
-    0% {
+    10% {
         bottom: 100%; 
     }
     100% {
@@ -112,7 +111,7 @@ body{
     }
 }
 @keyframes imagen6 {
-    0% {
+    10% {
         bottom: 100%; 
     }
     100% {
@@ -120,7 +119,7 @@ body{
     }
 }
 @keyframes imagen7 {
-    0% {
+    10% {
         bottom: 100%; 
     }
     100% {
@@ -128,7 +127,7 @@ body{
     }
 }
 @keyframes imagen8 {
-    0% {
+    10% {
         bottom: 100%; 
     }
     100% {
