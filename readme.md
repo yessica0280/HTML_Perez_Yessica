@@ -26,7 +26,7 @@ La primera página web esta basada en mi información personal la cual contiene:
 1. mi nombre, mi edad, mis estudios.
 2. una foto y les hable un poco sobre mi proyecto.
 
-### Tencologías utilizadas
+### Tecnologías utilizadas
 * HTML
 * Tipos de letra que ya viene preestablecido por html.
 
